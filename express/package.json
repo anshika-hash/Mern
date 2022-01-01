@@ -1,0 +1,19 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "node projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "hello world"
+  },
+  "repository": {
+    "type": "git",
+    "url": "anshika-hash"
+  },
+  "keywords": [
+    "node",
+    "js"
+  ],
+  "author": "Anshika Tyagi",
+  "license": "ISC"
+}
